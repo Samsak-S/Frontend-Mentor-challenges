@@ -106,7 +106,7 @@ ul{
   opacity: 0.7;
 }
 
-@media(min-width: 576px){
+@media(min-width: 1080px){
   #card{
     height: 400px;
     width: 520px;
